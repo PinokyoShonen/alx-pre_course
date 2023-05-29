@@ -1,2 +1,2 @@
-chi haja ou sf 
+this is my first README
 
